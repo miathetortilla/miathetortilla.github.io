@@ -1,0 +1,30 @@
+body {
+  background-color: #eae3d7
+}
+
+
+h1 { 
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px grey;
+  font-size: 80px;
+  font-style: normal;
+  font-variant: small-caps;
+}
+
+h2 {
+  text-align: center;
+  border: 4px dashed #f4d742;
+  border-bottom-right-radius: 10px;
+  color: grey;
+}
+
+li {
+  color: grey;
+  text-align: left;
+  font-style: normal;
+  font-size: 30px;
+}
+
+
+
