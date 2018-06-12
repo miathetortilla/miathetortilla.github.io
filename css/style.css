@@ -13,8 +13,22 @@ h1 {
   border: 10px solid white;
   padding: 10px;
   margin: auto;
+<<<<<<< HEAD
+
+=======
+>>>>>>> 0fd3285a92421b40e350a0dac0e9560d9fbe6a30
 }
 
+button {
+    align-content: center;
+    text-align: center;
+    background-color: pink;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    font-size: 20px;
+    font-style: italic;
+}
 h2 {
   text-align: center;
   border: 4px dashed #f4d742;
@@ -31,5 +45,14 @@ li {
   font-size: 30px;
 }
 
+h3 {
+  text-align: center;
+  color: white;
+  font-size:40px;
+  text-shadow: 2px 2px grey;
+}
+form {
+  text-align: center;
+}
 
 
