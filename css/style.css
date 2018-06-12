@@ -1,30 +1,34 @@
 body {
-  background-color: #eae3d7
+  background-image: url('http://www.biolchini.com/greg_biolchini_florida_sky_paintings/images/Sky%2014.JPG');
+    
 }
 
 
 h1 { 
   text-align: center;
-  color: white;
-  text-shadow: 4px 4px grey;
+  color: lightpink;
   font-size: 80px;
   font-variant: small-caps;
+  width: 800px;
+  border: 10px solid white;
+  padding: 10px;
+  margin: auto;
 }
 
 h2 {
   text-align: center;
   border: 4px dashed #f4d742;
   border-bottom-right-radius: 50px;
-  color: grey;
+  color: white;
   font-size:60px;
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px grey;
 }
 
 li {
-  color: grey;
+  color: white;
   text-align: left;
   font-style: normal;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 
